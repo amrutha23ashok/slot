@@ -133,10 +133,7 @@ timetable.html
 ```
 ## OUTPUT:
 
-
-## HTML VALIDATOR:
-
-
+![Screenshot 2023-10-16 194706](https://github.com/amrutha23ashok/slot/assets/120772913/cc162e0d-aa5f-494e-af06-739c74f5448a)
 
 ## RESULT:
 
